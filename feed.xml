@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Experimenteller KI Podcast</title>
+    <link>https://github.com/HTW-Berlin-KI-Werkstatt/podcast/</link>
+    <description>Experimenteller, KI-generierter Podcast zu KI-Themen. Keine Garantie für die Qualität des Inhalts!</description>
+    <itunes:image href="https://raw.githubusercontent.com/HTW-Berlin-KI-Werkstatt/podcast/main/cover.png"/>
+    <item>
+      <title>Folge 1: LLM based Code Generation</title>
+      <enclosure url="https://raw.githubusercontent.com/HTW-Berlin-KI-Werkstatt/podcast/main/LLM based Code Generation.mp4" type="audio/mpeg"/>
+      <guid>1</guid>
+      <pubDate>Fri, 26 Sep 2025 20:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
