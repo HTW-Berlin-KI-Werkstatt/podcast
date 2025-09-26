@@ -1,5 +1,8 @@
 # podcast
 
+<img src="https://github.com/HTW-Berlin-KI-Werkstatt/podcast/blob/7bd8c75a7f741c4f37f074d774e055fa8626cc8f/cover.png" width="20%" alt="Podcast Cover" tyle="box-shadow: 0 0 20px rgba(0,0,0,0.3); border-radius: 10px;">
+
+
 ## Was ist es?
 
 [EXPERIMENTELL] Experimenteller, KI-generierter Podcast zu KI-Themen. Alle Inahlte KI-generiert, ohne menschliche Zwischenprüfung. Keine Garantie für die Qualität des Inhalts!
