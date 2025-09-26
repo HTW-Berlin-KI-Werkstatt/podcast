@@ -3,7 +3,7 @@
   <channel>
     <title>Experimenteller KI Podcast</title>
     <link>https://github.com/HTW-Berlin-KI-Werkstatt/podcast/</link>
-    <description>Experimenteller, KI-generierter Podcast zu KI-Themen. Keine Garantie für die Qualität des Inhalts!</description>
+    <description>Experimenteller, KI-generierter Podcast zu KI-Themen. Alle Inahlte KI-generiert, ohne menschliche Zwischenprüfung. Keine Garantie für die Qualität des Inhalts!</description>
     <itunes:image href="https://raw.githubusercontent.com/HTW-Berlin-KI-Werkstatt/podcast/main/cover.png"/>
     <item>
       <title>Folge 1: LLM based Code Generation</title>
