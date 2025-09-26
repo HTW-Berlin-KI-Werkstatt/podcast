@@ -5,7 +5,7 @@
 
 ## Was ist es?
 
-[**EXPERIMENTELL**] Experimenteller, KI-generierter Podcast zu KI-Themen. Alle Inahlte KI-generiert, ohne menschliche Zwischenprüfung. Keine Garantie für die Qualität des Inhalts!
+[**EXPERIMENTELL**] Experimenteller, KI-generierter Podcast zu KI-Themen. Alle Inhalte KI-generiert, ohne menschliche Zwischenprüfung. Keine Garantie für die Qualität des Inhalts!
 
 Kann verwendet werden, um z.B. mit NotebookLM erzeugte Podcasts zu hosten, damit man sie auf dem Smartphone hören kann. 
 
